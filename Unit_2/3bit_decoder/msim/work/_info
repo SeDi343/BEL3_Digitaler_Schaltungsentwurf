@@ -1,0 +1,108 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/Users/sebastian/Documents/Schule/Fachhochschule/Semester_3/Digitaler_Schaltungsentwurf/Unit_2/3bit_decoder/msim
+Ebitdecoder
+Z1 w1505723920
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dZ:/Users/sebastian/Semester_3/Digitaler_Schaltungsentwurf/Unit_2/3bit_decoder/msim
+Z5 8../vhdl/3bitdecoder.vhd
+Z6 F../vhdl/3bitdecoder.vhd
+l0
+L14
+VIb>d`SKa68G7d?5ESzlC=0
+!s100 Qc0FVmK=3DZ941jF:1KO10
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1506319956
+!i10b 1
+Z9 !s108 1506319956.000000
+Z10 !s90 -reportprogress|300|../vhdl/3bitdecoder.vhd|
+Z11 !s107 ../vhdl/3bitdecoder.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Abitdecoder_rtl
+R2
+R3
+Z13 DEx4 work 10 bitdecoder 0 22 Ib>d`SKa68G7d?5ESzlC=0
+l22
+L21
+VH?a08:LD2T<3C<aWC8I^M0
+!s100 [L2jWb3Rh>5bDA4LhCzK32
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Cbitdecoder_rtl_cfg
+ebitdecoder
+abitdecoder_rtl
+DAx4 work 10 bitdecoder 14 bitdecoder_rtl 22 H?a08:LD2T<3C<aWC8I^M0
+R2
+R3
+R13
+R1
+R4
+R5
+R6
+l0
+L43
+V65Ib5G45mE3?jz6=HZNDQ1
+!s100 l_FMcMdW9?cjcPF74d53g3
+R7
+32
+R8
+!i10b 0
+R9
+R10
+R11
+!i113 1
+R12
+Etb_bitdecoder
+Z14 w1505725631
+R2
+R3
+R4
+Z15 8../tb/tb_3bitdecoder.vhd
+Z16 F../tb/tb_3bitdecoder.vhd
+l0
+L14
+Vlec_mndJ<BJh_09jDa5QZ1
+!s100 5;aacE^X4OfOafU8a`k[W1
+R7
+32
+Z17 !s110 1506319957
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|../tb/tb_3bitdecoder.vhd|
+Z19 !s107 ../tb/tb_3bitdecoder.vhd|
+!i113 1
+R12
+Atb_bitdecoder_sim
+R2
+R3
+Z20 DEx4 work 13 tb_bitdecoder 0 22 lec_mndJ<BJh_09jDa5QZ1
+l29
+L19
+Z21 VmnFzf=`:Q>]J?<BObGMea3
+Z22 !s100 `1baM3N`ZOCJ;dGA>RI2T1
+R7
+32
+R17
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12

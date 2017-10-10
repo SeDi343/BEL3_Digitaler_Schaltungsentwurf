@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/Users/sebastian/Semester_3/Digitaler_Schaltungsentwurf/Unit_4/8-bit-adder/msim
+Eadder
+Z1 w1507577103
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8../vhdl/bit-adder.vhd
+Z6 F../vhdl/bit-adder.vhd
+l0
+L13
+V?Rj5DU]KNjV_2f3eWXhmf2
+!s100 d1H_N>cYC1_?lM__WH65a1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1507577422
+!i10b 1
+Z9 !s108 1507577422.000000
+Z10 !s90 -reportprogress|300|../vhdl/bit-adder.vhd|
+Z11 !s107 ../vhdl/bit-adder.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Aadder_rtl
+R2
+R3
+R4
+DEx4 work 5 adder 0 22 ?Rj5DU]KNjV_2f3eWXhmf2
+l23
+L20
+VLVO<a:6a8;FMbHHkT>HA11
+!s100 VFXkZW45aVjbj2=^]1IWF2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Etb_adder
+Z13 w1507577122
+R2
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R0
+Z15 8../tb/tb-bit-adder.vhd
+Z16 F../tb/tb-bit-adder.vhd
+l0
+L14
+VilghAInnDTFmYDoWbYz8X0
+!s100 72?^^BUU0;_azAA1PM21g1
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|../tb/tb-bit-adder.vhd|
+Z18 !s107 ../tb/tb-bit-adder.vhd|
+!i113 1
+R12
+Atb_adder_sim
+R2
+R14
+R3
+R4
+Z19 DEx4 work 8 tb_adder 0 22 ilghAInnDTFmYDoWbYz8X0
+l31
+L17
+Z20 VPAFXNj335XZVBiQ8;>4FJ1
+Z21 !s100 BcHVVi9XUg]4b>VM`lP=D2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12

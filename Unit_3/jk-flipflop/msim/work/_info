@@ -1,0 +1,86 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/Users/sebastian/Semester_3/Digitaler_Schaltungsentwurf/Unit_3/jk-flipflop/msim
+Ejk_flipflop
+Z1 w1506925382
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8../vhdl/jk-flipflop.vhd
+Z5 F../vhdl/jk-flipflop.vhd
+l0
+L12
+V8KZ2g2W;kaFCncI2CYzUQ1
+!s100 k`0VzbzXfV:Q5?YX=@^T83
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1506925390
+!i10b 1
+Z8 !s108 1506925390.000000
+Z9 !s90 -reportprogress|300|../vhdl/jk-flipflop.vhd|
+Z10 !s107 ../vhdl/jk-flipflop.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Ajk_flipflop_rtl
+R2
+R3
+DEx4 work 11 jk_flipflop 0 22 8KZ2g2W;kaFCncI2CYzUQ1
+l22
+L20
+VMNSX1WJZ5EUX<b9^VIgAG0
+!s100 >lnkK=QiZESzl_X<nRY3b3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Etb_jk_flipflop
+Z12 w1506863868
+Z13 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R0
+Z14 8../tb/tb_jk-flipflop.vhd
+Z15 F../tb/tb_jk-flipflop.vhd
+l0
+L13
+Va<OVDZaAld5lV`?T<Jd4h3
+!s100 QoDF_7ofZ:<SUo]Rc^cP92
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|../tb/tb_jk-flipflop.vhd|
+Z17 !s107 ../tb/tb_jk-flipflop.vhd|
+!i113 1
+R11
+Atb_jk_flipflop_sim
+R13
+R2
+R3
+Z18 DEx4 work 14 tb_jk_flipflop 0 22 a<OVDZaAld5lV`?T<Jd4h3
+l32
+L16
+Z19 VM:FSSf=8=>aFVnR62[]Sa2
+Z20 !s100 kj9B5J5>?NJ2ze6kP^O2X0
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
