@@ -1,6 +1,0 @@
-Questa Sim runterladen
-
-cd -- In den Dateipfad des Projekts wechseln
-vlib work -- muss immer im compile Ordner gemacht werden
-do compile.do -- um den VHDL Code zu kompilieren
-
